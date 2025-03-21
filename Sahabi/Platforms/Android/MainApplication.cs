@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace IslamPartner
+namespace Sahabi
 {
     [Application]
     public class MainApplication : MauiApplication

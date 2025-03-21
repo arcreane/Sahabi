@@ -1,4 +1,4 @@
-﻿namespace IslamPartner
+﻿namespace Sahabi
 {
     public partial class App : Application
     {

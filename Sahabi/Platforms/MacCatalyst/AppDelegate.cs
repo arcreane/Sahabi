@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace IslamPartner
+namespace Sahabi
 {
     [Register("AppDelegate")]
     public class AppDelegate : MauiUIApplicationDelegate

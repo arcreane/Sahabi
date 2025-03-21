@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
-namespace IslamPartner
+namespace Sahabi
 {
     public static class MauiProgram
     {

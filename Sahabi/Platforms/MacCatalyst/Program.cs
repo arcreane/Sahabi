@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace IslamPartner
+namespace Sahabi
 {
     public class Program
     {

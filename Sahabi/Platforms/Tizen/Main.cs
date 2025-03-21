@@ -2,7 +2,7 @@ using System;
 using Microsoft.Maui;
 using Microsoft.Maui.Hosting;
 
-namespace IslamPartner
+namespace Sahabi
 {
     internal class Program : MauiApplication
     {
