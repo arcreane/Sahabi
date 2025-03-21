@@ -1,0 +1,10 @@
+﻿namespace IslamPartner
+{
+    public partial class AppShell : Shell
+    {
+        public AppShell()
+        {
+            InitializeComponent();
+        }
+    }
+}
